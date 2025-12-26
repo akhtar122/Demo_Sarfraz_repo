@@ -15,7 +15,7 @@ export default function Hero() {
           {/* Left content */}
           <div className="relative z-10">
             <div className="inline-block mb-4 px-4 py-2 bg-secondary/10 rounded-full">
-              <span className="text-secondary font-semibold text-sm">Digital Printing </span>
+              <span className="text-secondary font-semibold text-sm">Digital Printing by sarfrj all time</span>
             </div>
 
             <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl font-bold leading-tight text-balance mb-6">
